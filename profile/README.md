@@ -1,0 +1,3 @@
+# Adaptation Return on Investments Toolkit
+
+The Adaptation Return on Investment (ROI) Project stems from the Canadian Safety and Security Program (CSSP), managed by Defence Research and Development Canada (DRDC) in collaboration with Public Safety Canada. AECOM, the Institute of Catastrophic Loss Reduction, Public Safety Canada, and the cities of Ottawa, Clarence-Rockland, and Calgary collaborated in developing the Adaptation ROI Toolkit to make assets and infrastructure more resilient to disaster risks and climate change impacts. The cities of Toronto, Vancouver, and Montreal have also been supporting partners in the project.
